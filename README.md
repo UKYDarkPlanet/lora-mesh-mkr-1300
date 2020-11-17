@@ -1,3 +1,4 @@
+# !!! Deprecated: LoRa Mesh does not work with LoRaWAN !!!
 # LoRa Mesh MKR 1300 Device Firmware
 
 This repository contains all of the necessary files and libraries to flash the LoRa module with custom code and then communicate with the LoRa module using the main microcontroller. Below are the steps to guide you through the process. 
